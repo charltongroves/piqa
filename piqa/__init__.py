@@ -15,4 +15,5 @@ from .gmsd import GMSD, MS_GMSD
 from .mdsi import MDSI
 from .haarpsi import HaarPSI
 from .vsi import VSI
+from .ssi import SSI
 from .fsim import FSIM
